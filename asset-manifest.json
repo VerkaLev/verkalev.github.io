@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/app_interactive_elements/static/css/main.7f09ae6b.css",
-    "main.js": "/app_interactive_elements/static/js/main.36010638.js",
-    "static/media/backgroundImage.jpg": "/app_interactive_elements/static/media/backgroundImage.89557c3d637d1ec4e909.jpg",
-    "static/media/backgroundImage_inputs.jpg": "/app_interactive_elements/static/media/backgroundImage_inputs.63c4f8f46138917c354a.jpg",
-    "static/media/backgroundImage_cart.jpg": "/app_interactive_elements/static/media/backgroundImage_cart.82247c6dfdf90c58c6e1.jpg",
-    "static/media/backgroundImage_buttons.jpg": "/app_interactive_elements/static/media/backgroundImage_buttons.25ccb169096a94a13e15.jpg",
-    "static/media/SpecialElite-Regular.ttf": "/app_interactive_elements/static/media/SpecialElite-Regular.cefed1373df28714f8e5.ttf",
-    "static/media/added.png": "/app_interactive_elements/static/media/added.b6c95573e4deca86657b.png",
-    "static/media/arrow_return.jpg": "/app_interactive_elements/static/media/arrow_return.8b2c30b64872f7975078.jpg",
-    "static/media/delete.png": "/app_interactive_elements/static/media/delete.95d0cb13dc325febcc46.png",
-    "index.html": "/app_interactive_elements/index.html",
-    "main.7f09ae6b.css.map": "/app_interactive_elements/static/css/main.7f09ae6b.css.map",
-    "main.36010638.js.map": "/app_interactive_elements/static/js/main.36010638.js.map"
+    "main.css": "/static/css/main.2e5a013c.css",
+    "main.js": "/static/js/main.ac556fe1.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.89557c3d637d1ec4e909.jpg",
+    "static/media/backgroundImage_inputs.jpg": "/static/media/backgroundImage_inputs.63c4f8f46138917c354a.jpg",
+    "static/media/backgroundImage_cart.jpg": "/static/media/backgroundImage_cart.82247c6dfdf90c58c6e1.jpg",
+    "static/media/backgroundImage_buttons.jpg": "/static/media/backgroundImage_buttons.25ccb169096a94a13e15.jpg",
+    "static/media/added.png": "/static/media/added.b6c95573e4deca86657b.png",
+    "static/media/arrow_return.jpg": "/static/media/arrow_return.8b2c30b64872f7975078.jpg",
+    "static/media/delete.png": "/static/media/delete.95d0cb13dc325febcc46.png",
+    "index.html": "/index.html",
+    "main.2e5a013c.css.map": "/static/css/main.2e5a013c.css.map",
+    "main.ac556fe1.js.map": "/static/js/main.ac556fe1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f09ae6b.css",
-    "static/js/main.36010638.js"
+    "static/css/main.2e5a013c.css",
+    "static/js/main.ac556fe1.js"
   ]
 }
