@@ -1,11 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-<<<<<<< HEAD
   "homepage": "https://verkalev.github.io/",
-=======
-  "homepage": "https://verkaLev.github.io/app-ts/app_interactive_elements/my-app",
->>>>>>> d47a339 (save local code before deploying)
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",

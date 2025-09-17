@@ -28,11 +28,6 @@ export const MenuCreateElement: React.FC<MainMenuCreateElementPropsType> = ({
 
   const postNewElementHandleClick = async () => {
     if (title === 'button') {
-<<<<<<< HEAD
-=======
-      console.log(propertyInput, title);
-
->>>>>>> d47a339 (save local code before deploying)
       await dispatch(postButtonAction(urlBtn, propertyInput, title));
     } else if (title === 'input') {
       await dispatch(postInputAction(urlInput, propertyInput, title));

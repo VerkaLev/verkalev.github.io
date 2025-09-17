@@ -16,19 +16,12 @@ export const Menu = () => {
         </div>
 
         <div className='container_btn_log_out_cesta'>
-<<<<<<< HEAD
           <div className='container_btn_cesta'>
             <BtnGoToCart to='/cart'>
               <img src={cart} alt='buy' />
             </BtnGoToCart>
             <p className='amount_of_elements_in_the_cart'>{dataCart.length}</p>
           </div>
-=======
-          <BtnGoToCart to='/cart'>
-            <img src={cart} alt='buy' />
-          </BtnGoToCart>
-          <p className='amount_of_elements_in_the_cart'>{dataCart.length}</p>
->>>>>>> d47a339 (save local code before deploying)
           <BtnWhiteStyled onClick={handleLogOutClick}>log out</BtnWhiteStyled>
         </div>
       </nav>
